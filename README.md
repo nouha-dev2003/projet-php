@@ -9,6 +9,17 @@ A secure, custom-built PHP Model-View-Controller (MVC) system developed without 
 - **Secure File Management:** Dedicated Uploader utility and File Manager validating MIME types, extensions, size constraints, and isolating physical disk limits from the SQL layer.
 - **Dynamic Search Engine:** Aggregation service utilizing prepared statements for multi-table filtering, pagination, and multi-criteria searches.
 
+## 📚 Documentation & Reports
+- **[View the AI Usage Report](AI_USAGE_REPORT.md)**: A detailed chronological log of AI assistance used for debugging, redesigning, and schema generation.
+
+## 🎨 Demos & UI
+The application features a fully modern, premium design system built with custom CSS:
+- **Glassmorphism Interface:** Translucent panels and soft shadows.
+- **Dynamic Interactions:** Hover animations and smooth transitions on all actionable elements.
+- **Responsive Layout:** Clean, structured grids for the Product lists and File Manager.
+
+*(Screenshots can be placed here to demonstrate the Login, Dashboard, and Advanced Search modules)*
+
 ## 🛠️ System Requirements
 - **PHP:** 8.0 or higher
 - **Database:** MySQL / MariaDB (8.0+)
