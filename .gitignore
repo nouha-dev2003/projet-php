@@ -1,0 +1,7 @@
+/vendor/ 
+.env 
+config/db_config.php 
+/public/uploads/* 
+!/public/uploads/.gitkeep 
+*.log 
+composer.phar 
