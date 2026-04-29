@@ -2,6 +2,7 @@
 
 **Project:** Custom PHP MVC Application  
 **Student(s):** Nouha Ben Abdallah, Eya Bouazizi, Narjes Mselmi
+---
 **Course requirement:** Complete the table below for every major AI assistance  
 **(code generation, debugging, SQL design, explanation of concepts).**
 
